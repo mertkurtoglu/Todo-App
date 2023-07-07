@@ -2,7 +2,10 @@
 
 In this project, a TodoList application has been developed to allow users to manage their to-do lists. Users can create tasks, edit them, mark them as completed, or delete them.
 
+- Task List -<br></br>
 <img src="images/Main.png" width="600px" ><br></br>
+
+- Update a task - <br></br>
 <img src="images/Update.png" width="600px" >
 
 ## Features
